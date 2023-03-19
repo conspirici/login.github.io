@@ -1,0 +1,113 @@
+body {
+    background-color: #f5a2a1;
+    font-family: sans-serif;
+  }
+  
+  .login-box {
+    width: 280px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #fff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
+    transition: all 0.5s;
+  }
+  
+  .login-box.flamingo {
+    background-color: #f5a2a1;
+    color: #fff;
+  }
+  
+  .login-box.black {
+    background-color: #000;
+    color: #fff;
+  }
+  
+  .login-box h1 {
+    float: left;
+    font-size: 30px;
+    border-bottom: 6px solid #f5a2a1;
+    margin-bottom: 50px;
+    padding: 13px 0;
+  }
+  
+  .textbox {
+    width: 100%;
+    overflow: hidden;
+    font-size: 20px;
+    padding: 8px 0;
+    margin: 8px 0;
+    border-bottom: 1px solid #f5a2a1;
+  }
+  
+  .textbox i {
+    width: 26px;
+    float: left;
+    text-align: center;
+  }
+  
+  .textbox input {
+    border: none;
+    outline: none;
+    background: none;
+    color: #000;
+    font-size: 18px;
+    width: 80%;
+    float: left;
+    margin: 0 10px;
+    transition: all 0.5s;
+  }
+  
+  .textbox input.black {
+    color: #fff;
+  }
+  
+  .textbox input.white {
+    color: #000;
+  }
+  
+  .btn {
+    width: 100%;
+    background-color: #f5a2a1;
+    color: #fff;
+    font-size: 18px;
+    padding: 10px 0;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    margin-top: 30px;
+    transition: all 0.5s;
+  }
+  
+  .btn:hover {
+    background-color: #fff;
+    color: #f5a2a1;
+  }
+  
+  .toggle-password {
+    float: right;
+    margin-top: 10px;
+    margin-right: 5px;
+    cursor: pointer;
+    color: #fff;
+    transition: all 0.5s;
+    background-color: #000;
+    border: 1px solid #fff;
+    padding: 5px;
+  }
+  
+  .toggle-password.white {
+    color: #000;
+  }
+  
+  .toggle-password.black {
+    color: #fff;
+  }
+  
+  body.black {
+    background-color: #000;
+  }
+    
