@@ -8,9 +8,9 @@ Please note that this project is still a work in progress, and I will continue t
 
 Here are a couple of screenshots from the Login Page project:
 
-![Screenshot 1](https://github.com/conspirici/login.github.io/raw/main/screenshots/128182792/44fc904d-a92b-40f3-8c76-00063f08a0de.png)
+![Screenshot 1](https://github.com/conspirici/login.github.io/blob/main/Screenshot%20(6).png)
 
-![Screenshot 2](https://github.com/conspirici/login.github.io/raw/main/screenshots/128182792/a7f41099-285e-4eb8-9039-79139fa8f027.png)
+![Screenshot 2]()
 
 ## Features
 
