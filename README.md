@@ -10,7 +10,7 @@ Here are a couple of screenshots from the Login Page project:
 
 ![Screenshot 1](https://github.com/conspirici/login.github.io/blob/main/Screenshot%20(6).png)
 
-![Screenshot 2]()
+![Screenshot 2](https://github.com/conspirici/login.github.io/blob/main/Screenshot%20(7).png)
 
 ## Features
 
